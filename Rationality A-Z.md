@@ -1,10 +1,27 @@
+## Globals for later inquiry 
+
+Software book read... or listen to?
+
+### 7:12pm 12.17.2018: Too math. But yes please.
+Dezert-Smarandache Theory?
 
 
-https://www.lesswrong.com/rationality/belief-as-attire?postId=nYkMLFpx77Rz3uo9c&view=postCommentsTop#Mu5LnWfMgLTuZNonD
 
- Dezert-Smarandache Theory?
 
 https://www.lesswrong.com/posts/6FmqiAgS8h4EJm86s/how-to-convince-me-that-2-2-3#FSCnmhDvNnTmsNFSr
+
+
+>You know, the concept of the first uncountable ordinal is actually one of the strongest reasons I've ever heard to disbelieve in set theory. ZFC, or rather NBG, does imply the existence of a first uncountable ordinal, right, or am I mistaken? [link](https://www.lesswrong.com/posts/zvXfBqp6TSriNkmbg/harry-potter-and-the-methods-of-rationality-discussion-10#q8rqHkLDAExCytBrv) (Need to load all comments. Has karma 0.)
+
+I don't think people really understood what I was talking about in that thread. I would have to write a sequence about
+
+the difference between first-order and second-order logic
+why the Lowenheim-Skolem theorems show that you can talk about integers or reals in higher-order logic but not first-order logic
+why third-order logic isn't qualitatively different from second-order logic in the same way that second-order logic is qualitatively above first-order logic
+the generalization of Solomonoff induction to anthropic reasoning about agents resembling yourself who appear embedded in models of second-order theories, with more compact axiom sets being more probable a priori
+how that addresses some points Wei Dai has made about hypercomputation not being conceivable to agents using Solomonoff induction on computable Cartesian environments, as well as formalizing some of the questions we argue about in anthropic theory
+why seeing apparently infinite time and apparently continuous space suggests, to an agent using second-order anthropic induction, that we might be living within a model of axioms that imply infinity and continuity
+why believing that things like a first uncountable ordinal can contain reality-fluid in the same way as the wavefunction, or even be uniquely specified by second-order axioms that pin down a single model up to isomorphism the way that second-order axioms can pin down integerness and realness, is something we have rather less evidence for, on the surface of things, than we have evidence favoring the physical existability of models of infinity and continuity, or the mathematical sensibility of talking about the integers or real numbers.
 
 old post with neg karma
 
