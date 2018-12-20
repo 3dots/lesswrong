@@ -2,36 +2,51 @@
 
 Software book read... or listen to?
 
-### 7:12pm 12.17.2018: Too math. But yes please.
-Dezert-Smarandache Theory?
+7:12pm 12.17.2018  
+7:20am 12.18.2018
 
+**Dezert-Smarandache Theory**: The management and combination of uncertain, imprecise, fuzzy and even paradoxical or highly conflicting sources of information. 
 
+**Math and Belief** [link](https://www.lesswrong.com/posts/6FmqiAgS8h4EJm86s/how-to-convince-me-that-2-2-3#FSCnmhDvNnTmsNFSr)
 
-
-https://www.lesswrong.com/posts/6FmqiAgS8h4EJm86s/how-to-convince-me-that-2-2-3#FSCnmhDvNnTmsNFSr
-
-
+Eliezer:
 >You know, the concept of the first uncountable ordinal is actually one of the strongest reasons I've ever heard to disbelieve in set theory. ZFC, or rather NBG, does imply the existence of a first uncountable ordinal, right, or am I mistaken? [link](https://www.lesswrong.com/posts/zvXfBqp6TSriNkmbg/harry-potter-and-the-methods-of-rationality-discussion-10#q8rqHkLDAExCytBrv) (Need to load all comments. Has karma 0.)
 
-I don't think people really understood what I was talking about in that thread. I would have to write a sequence about
+komponisto:
+>>The article's failure to distinguish between a mathematical theory and a mathematical model (map and territory, possibly?)    
 
-the difference between first-order and second-order logic
-why the Lowenheim-Skolem theorems show that you can talk about integers or reals in higher-order logic but not first-order logic
-why third-order logic isn't qualitatively different from second-order logic in the same way that second-order logic is qualitatively above first-order logic
-the generalization of Solomonoff induction to anthropic reasoning about agents resembling yourself who appear embedded in models of second-order theories, with more compact axiom sets being more probable a priori
-how that addresses some points Wei Dai has made about hypercomputation not being conceivable to agents using Solomonoff induction on computable Cartesian environments, as well as formalizing some of the questions we argue about in anthropic theory
+>Exactly. This is one of Eliezer's few genuine philosophical mistakes, one which, four years later, he's still making.
+
+Elizer:
+>I know very well the difference between a collection of axioms and a collection of models of which those axioms are true, thank you.   
+A lot of people seem to have trouble imagining what it means to consider the hypothesis that SS0+SS0 = SSS0 is true in all models of arithmetic, for purposes of deriving predictions which distinguish it from what we should see given the alternative hypothesis that SS0+SS0=SSSS0 is true in all models of arithmetic, thereby allowing internal or external experience to advise you on which of these alternative hypotheses is true.
+
+komponisto:
+> Then why do you persist in saying things like "I don't believe in [Axiom X]/[Mathematical Object Y]"? If this distinction that you are so aptly able to rehearse were truly integrated into your understanding, it wouldn't occur to you to discuss whether you have "seen" a particular cardinal number.   
+I understand the point you wanted to make in this post, and it's a valid one. All the same, it's extremely easy to slip from empiricism to Platonism when discussing mathematics, and parts of this post can indeed be read as betraying that slip (to which you have explicitly fallen victim on other occasions, the most recent being the thread I linked to).
+
+Elizer:
+>I don't think people really understood what I was talking about in that thread. I would have to write a sequence about
+
+* the difference between first-order and second-order logic
+* why the Lowenheim-Skolem theorems show that you can talk about integers or reals in higher-order logic but not first-order logic
+* why third-order logic isn't qualitatively different from second-order logic in the same way that second-order logic is qualitatively above first-order logic
+* the generalization of Solomonoff induction to anthropic reasoning about agents resembling yourself who appear embedded in models of second-order theories, with more compact axiom sets being more probable a priori
+>Occam's Razor?
+* how that addresses some points Wei Dai has made about hypercomputation not being conceivable to agents using Solomonoff induction on computable Cartesian environments, as well as formalizing some of the questions we argue about in anthropic theory
 why seeing apparently infinite time and apparently continuous space suggests, to an agent using second-order anthropic induction, that we might be living within a model of axioms that imply infinity and continuity
-why believing that things like a first uncountable ordinal can contain reality-fluid in the same way as the wavefunction, or even be uniquely specified by second-order axioms that pin down a single model up to isomorphism the way that second-order axioms can pin down integerness and realness, is something we have rather less evidence for, on the surface of things, than we have evidence favoring the physical existability of models of infinity and continuity, or the mathematical sensibility of talking about the integers or real numbers.
+* why believing that things like a first uncountable ordinal can contain reality-fluid in the same way as the wavefunction, or even be uniquely specified by second-order axioms that pin down a single model up to isomorphism the way that second-order axioms can pin down integerness and realness, is something we have rather less evidence for, on the surface of things, than we have evidence favoring the physical existability of models of infinity and continuity, or the mathematical sensibility of talking about the integers or real numbers.
+>Yes. Very words.
 
-old post with neg karma
+**Calibration:**  
+* Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think.
+* lesswrong threads?
 
-calibration
+Brain parts
 
-brain parts
+Rationality and Alcohol [link](https://www.lesswrong.com/posts/Hs3ymqypvhgFMkgLb/doublethink-choosing-to-be-biased#DmR6Sj2Te56Qcj8fr):
 
-https://www.lesswrong.com/posts/Hs3ymqypvhgFMkgLb/doublethink-choosing-to-be-biased#DmR6Sj2Te56Qcj8fr
 _________________________________
-
 
 # Closet Survey #1 [link](https://www.lesswrong.com/posts/gPdM553fhdZuNmDxn/closet-survey-1#4hX2EdGkacTA2nC2P)
 
@@ -50,19 +65,10 @@ Then, he notes that iii) B seems equally as good as B−, as the only difference
 Together, these three comparisons entail that B is better than A. However, Parfit observes that when we directly compare A (a population with high average happiness) and B (a population with lower average happiness, but more total happiness because of its larger population), it may seem that B can be worse than A.
 
 Thus, there is a paradox. The following intuitively plausible claims are jointly incompatible: (a) that A+ is no worse than A, (b) that B− is better than A+, (c) that B− is equally as good as B, and (d) that B can be worse than A. 
-
-
-
-
-
 _________________
 
-
-
-
-
-
-
+7:27am 12.18.2018
+- mere addition paradox (repugnant conclusion)
 
 A.I. Constraining Principles.
 
@@ -78,13 +84,13 @@ What fraction of opponents returns for another round?
 P(Opponent A returns for game within C_t time | Game Is Loss) =
 P(Opponent A returns for game within C_t time | Game Is Win) =
 
-That is insufficient .
+That is insufficient.
 
 How do you contrast that with the mental and physical health of the individual opponents?
 
 Injecting heroine into the opponent may result in > 80% retainment rate, but this does not *benefit* the opponent.
 
-P(Opponent A never plays again) = p_r. Constrain p_r < 0.001 .
+P(Opponent A never plays again) = p_r. Constrain p_r < 0.1 - 0.01 .
 
 P(Opponent A feels Misery > v_m from Loss).
 
@@ -117,24 +123,23 @@ Want to increase Quality of the experience, not perturb it's average duration.
 
 
 
-Will is a finite, variable parameter.
+Will is a finite, variable parameter OF THE MODEL and users.
 
 
-
-Artificial intelligence.
-Intelligence is a byproduct of evolution.
 
 It's not about doing it right.
 It's about not doing it wrong.
 Each way of failure has to be addressed.
 
 Are the natural heuristics and biases necessary?
-
-
+_________________________
+## Quotes
 >You are not a Bayesian homunculus whose reasoning is 'corrupted' by cognitive biases.
 You just *are* cognitive biases.
 
 >You just *are* attribution substitution heuristics, evolved intuitions, and unconscious learning. These make up the 'elephant' of your mind, and atop them rides a tiny 'deliberative thinking' module that only rarely exerts itself, and almost never according to normatively correct reasoning.
+_________________________
+
 
 # Rationality: A-Z [link](https://www.lesswrong.com/rationality)
 
@@ -173,7 +178,7 @@ Can lead to biases such as *conjunction fallacy* and *base rate neglect*.
             
 The moral?  Adding more detail or extra assumptions can make an event seem more plausible, even though the event necessarily becomes less probable.
 
-Experimental subjects considered it less likely that a strong tennis player would “lose the first set” than that he would “lose the first set but win the match.”[7] Making a comeback seems more typical of a strong player, so we overestimate the probability of this complicated-but-sensible-sounding narrative compared to the probability of a strictly simpler scenario. 
+Experimental subjects considered it less likely that a strong tennis player would “lose the first set” than that he would “lose the first set but win the match.” Making a comeback seems more typical of a strong player, so we overestimate the probability of this complicated-but-sensible-sounding narrative compared to the probability of a strictly simpler scenario. 
 
 **Base Rate Neglect**: grounding judgments in how intuitively “normal” a combination of attributes is, neglecting how common each attribute is in the population at large.
 
@@ -248,7 +253,7 @@ Omega has put a million dollars in box B iff Omega has predicted that you will t
 
 >"Everyone is imperfect" is an excellent example of replacing a two-color view with a one-color view.  If you say, "No one is perfect, but *some people are less imperfect than others*," you may not gain applause; but for those who strive to do better, you have held out hope.  No one is *perfectly* imperfect, after all.
 
-Book Suggestion: PROBABILITY THEORY:
+(reading) Book Suggestion: PROBABILITY THEORY:
 THE LOGIC OF SCIENCE
 by
 E. T. Jaynes [link](http://omega.albany.edu:8008/JaynesBook.html)
@@ -540,7 +545,7 @@ To evaluate the ordinariness or extraordinariness of a claim:
 * We ask whether "carbon dioxide warms the atmosphere" or "carbon dioxide fails to warm the atmosphere" seems to conform better to the *deep, causal* generalizations we already have about carbon dioxide and heat.
 * *If* we've already considered the deep causal generalizations like those, we don't ask about generalizations *causally downstream* of the deep causal ones we've already considered. (E.g., we don't say, "But on every observed day for the last 200 years, the global temperature has stayed inside the following range; it would be 'extraordinary' to leave that range.")
 
->If you get in a car accident, and don't want to relinquish the hypothesis that you're a great driver, then you can find all sorts of reasons ("the road was slippery! my car freaked out!") why P(e | GoodDriver) is not too low. But P(e | BadDriver)is also part of the update equation, and the "bad driver" hypothesis better predicts the evidence. Thus, your first impulse, when deciding how to update your beliefs in the face of a car accident, should not be "But my preferred hypothesis allows for this evidence!" It should instead be "Points to the 'bad driver' hypothesis for predicting this evidence better than the alternatives!" (And remember, you're allowed to increase a little bit, while still thinking that it's less than 50% probable.)
+>If you get in a car accident, and don't want to relinquish the hypothesis that you're a great driver, then you can find all sorts of reasons ("the road was slippery! my car freaked out!") why P(e | GoodDriver) is not too low. But P(e | BadDriver) is also part of the update equation, and the "bad driver" hypothesis better predicts the evidence. Thus, your first impulse, when deciding how to update your beliefs in the face of a car accident, should not be "But my preferred hypothesis allows for this evidence!" It should instead be "Points to the 'bad driver' hypothesis for predicting this evidence better than the alternatives!" (And remember, you're allowed to increase a little bit, while still thinking that it's less than 50% probable.)
 
 **Overriding Evidence**:
 
@@ -587,7 +592,7 @@ To evaluate the ordinariness or extraordinariness of a claim:
 
 You have two theories, A and B. A is more complex then B, but has sharper/more precise predictions for it's observables.
 
-i.e. given a test, where it's either +-ve or -ve (true or false), then we necissitate that P(+ | A) > P(+ | B). 
+i.e. given a test, where it's either +-ve or -ve (true or false), then we necessitate that P(+ | A) > P(+ | B). 
 
 Say that P(+ | A) = 10 * P(+ | B). 
 
@@ -710,7 +715,7 @@ In other words, signaling wisdom by saying and doing nothing.
 
 >the ability to have potentially divisive conversations is a limited resource.
 
-> groups that freely argue about basic values tend to fragment into like-thinking-cliques focused more on clique loyalty than on fairly crediting informative contributions. such discussions threaten social norms that preserve group cohesion and effective conversation.
+> groups that freely argue about basic values tend to fragment into like-thinking-cliques focused more on clique loyalty than on fairly crediting informative contributions. Such discussions threaten social norms that preserve group cohesion and effective conversation.
 
 >In practice, most policy debate focuses on a few dimensions, such as the abortion rate, the overall tax rate, more versus less regulation, for or against more racial equality, or a pro versus anti US stance.  In fact, one can explain 85% of the variation in US Congressional votes by a single underlying dimension, where there are two separated clumps.  Most of the remaining variation is explained by one more dimension.
 
@@ -912,19 +917,14 @@ But
 
 **Sine qua non**: an indispensable and essential action, condition, or ingredient.
 
->It seems absurd to insist that one can believe what one has already 
-deemed implausible, but not so absurd to suggest that one may believe the impossible 
-before its plausibility is calculated.
+>It seems absurd to insist that one can believe what one has already deemed implausible, but not so absurd to suggest that one may believe the impossible before its plausibility is calculated.
 
->For Spinoza, being skeptical 
-meant taking a second step backward (unbelieving) to correct for the uncontrollable 
-tendency to take a first step forward (believing).
+>For Spinoza, being skeptical meant taking a second step backward (unbelieving) to correct for the uncontrollable tendency to take a first step forward (believing).
 
->Ideas are not mere candidates for belief, but potent 
-entities whose mere communication instantly alters the behavioral propensities of the 
+>Ideas are not mere candidates for belief, but potent entities whose mere communication instantly alters the behavioral propensities of the 
 listener.
 
-However
+However:
 
 >Those who 
 are responsible for instituting prior restraints may err in their attempts to distinguish good 
@@ -1093,6 +1093,7 @@ Maybe then you will be less shocked by what happens next.
 **vacuously**: Lacking intelligence; stupid or empty-headed. b. Devoid of substance or meaning; vapid or inane: a vacuous comment. c. Devoid of expression; vacant: a vacuous stare.
 
 >Almost as soon as I started reading about AI—even before I read McDermott—I realized it would be a *really good idea* to always ask myself:  "How would I regenerate this knowledge if it were deleted from my mind?"
+Book suggestion: McDermott
 
 # How to Actually Change Your Mind. *The Second Book*
 
@@ -1135,7 +1136,7 @@ When the child first questions Santa Claus, he should be given a vaguely plausib
 
 >persistence turns out to be more than a conscious act of will; it’s also an unconscious response, governed by a circuit in the brain.
 
->Blackwell split her kids into two groups for an eight-session workshop. The control group was taught study skills, and the others got study skills and a special module on how intelligence is not innate. These students took turns reading aloud an essay on how the brain grows new neurons when challenged. They saw slides of the brain and acted out skits. Even as I was teaching these ideas,Blackwell noted, I would hear the students joking, calling one another 'dummy’ or 'stupid.’ The only difference between the control group and the test group were two lessons, a total of 50 minutes spent teaching not math but a single idea: that the brain is a muscle. Giving it a harder workout makes you smarter. That alone improved their math scores.
+>Blackwell split her kids into two groups for an eight-session workshop. The control group was taught study skills, and the others got study skills and a special module on how intelligence is not innate. These students took turns reading aloud an essay on how the brain grows new neurons when challenged. They saw slides of the brain and acted out skits. Even as I was teaching these ideas, Blackwell noted, I would hear the students joking, calling one another 'dummy’ or 'stupid.’ The only difference between the control group and the test group were two lessons, a total of 50 minutes spent teaching not math but a single idea: that the brain is a muscle. Giving it a harder workout makes you smarter. That alone improved their math scores.
 
 >Giving kids the label of 'smart' does not prevent them from underperforming. It actually causes it.
 
@@ -1444,6 +1445,9 @@ Book Suggestion: A Dictionary of Philosophical Quotations https://books.google.c
 >Your effectiveness as a rationalist is determined by whichever algorithm actually writes the bottom line of your thoughts.
 
 ## What Evidence Filtered Evidence [link](https://www.lesswrong.com/rationality/what-evidence-filtered-evidence)
+
+### 5:54pm 12.20.2018
+Monty Hall problem.
 
 ## Rationalization [link](https://www.lesswrong.com/rationality/rationalization)
 
