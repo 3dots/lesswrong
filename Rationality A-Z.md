@@ -1526,7 +1526,7 @@ Book Suggestion: Judgment Under Uncertainty
 
 **pulchritudinous**: describes a person of breathtaking, heartbreaking beauty.
 
->predict what each will say in a sort of mental role taking that is much easier if you imagine it not being you that has such thoughts.
+>predict what each side will say in a sort of mental role acting; that is much easier if you imagine it not being you that has such thoughts.
 
 ## No, Really, I've Deceived Myself [link](https://www.lesswrong.com/s/qqFS6Kw5fmPyzkLby/p/rZX4WuufAPbN6wQTv)
 
@@ -1554,19 +1554,97 @@ Book Suggestion: Judgment Under Uncertainty
 
 >When it comes to deliberate self-deception, you must *believe in your own inability*!
 
+# Seeing with Fresh Eyes
 
+## Anchoring and Adjustment [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/bMkCEZoBNhgRBtzoj)
 
-Ensure that your computer is locked when you are away from your desk.
+"How much would I be willling to pay for this if I didn't know any special information?" Useful for debiasing.
 
-Do not leave confidential information at your desk unattended and lock away confidential
-information at the end of the day.
+>Watch yourself thinking, and try to notice when you are **adjusting** a figure in search of an estimate.
 
-Removable media used for the above purposes must be either physically destroyed (shredded) or
-overwritten multiple times before it can be released outside of RPM control.
+## Priming and Contamination [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/BaCWFCxBQYjJXSsah)
 
-When off duty, refuse a request to come in to work if unfit for duty;
-Report unfit co-workers to management immediately;
+>The more general result is that *completely uninformative, known false*, or *totally irrelevant* "information" can influence estimates and decisions.  In the field of heuristics and biases, this more general phenomenon is known as **contamination**.  
 
-If the doors or locks are compromised (ie. not working, locking, closing securely), this
-information must be reported immediately to the Office Coordinator.
+## Do We Believe Everything We're Told? [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/TiDGXt3WrQwtCdDj3)
+
+>One might naturally think that on being told a proposition, we would first *comprehend* what the proposition meant, then *consider* the proposition, and finally *accept* or *reject* it.  This obvious-seeming model of cognitive process flow dates back to Descartes.  But Descartes's rival, Spinoza, disagreed; Spinoza suggested that we first *passively accept a proposition in the course of comprehending it*, and only afterward *actively disbelieve* propositions which are rejected by consideration.
+
+>This suggests — to say the very least—that we should be more careful when we expose ourselves to unreliable information, especially if we're doing something else at the time.  Be careful when you glance at that newspaper in the supermarket.
+
+## Cached Thoughts [link](https://www.lesswrong.com/posts/2MD3NMLBPCqPfnfre/cached-thoughts)
+
+>It's a good guess that the actual *majority* of human cognition consists of cache lookups.
+
+## The "Outside the Box" Box [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/qu95AwSrKqQSo4fCY)
+
+>Whenever someone exhorts you to "think outside the box", they usually, for your *convenience*, point out exactly where "outside the box" is located.  Isn't it funny how nonconformists all dress the same...
+
+>The problem with originality is that you actually have to *think* in order to attain it, instead of letting your brain complete the pattern.  There is no conveniently labeled "Outside the Box" to which you can immediately run off.  There's an almost Zen-like quality to it—like the way you can't teach *satori* in words because *satori* is the experience of words failing you.
+
+## Original Seeing [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/SA79JMXKWke32A3hG)
+
+>he thought about it and concluded she was evidently stopped with the same kind of blockage that had paralyzed him on his first day of teaching.  She was blocked because she was trying to repeat, in her writing, things she had already heard, just as on the first day he had tried to repeat things he had already decided to say.  She couldn't think of anything to write about Bozeman because she couldn't recall anything she had heard worth repeating.  She was strangely unaware that she could look and see freshly for herself, as she wrote, without primary regard for what had been said before.  The narrowing down to one brick destroyed the blockage because it was so obvious she *had* to do some original and direct seeing.
+
+## Stranger then History [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/h3vdnR34ZvohDEFT5)
+
+Surface absurdity counts for nothing.
+
+## The Logical Fallacy of Generalization from Fictional Evidence [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/rHBdcHGLJ7KvLJQPk)
+
+> Even the most diligent science fiction writers are, first and foremost, storytellers;  the requirements of storytelling are not the same as the requirements of forecasting.
+
+Almost like anchoring and contamination.
+
+>Remembered fictions rush in and do your thinking for you; they substitute for *seeing*—the deadliest convenience of all.
+
+## The Virtue of Narrowness [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/yDfxTj9TKYsYiWH5o)
+
+>Outside their own professions, people often commit the misstep of trying to broaden a word as widely as possible, to cover as much territory as possible.
+
+>There is a trivial mapping between a graph and its complement.  A fully connected graph, with an edge between every two vertices, conveys the same amount of information as a graph with no edges at all.  The important graphs are the ones where some things are *not* connected to some other things.
+
+## How to Seem (and Be) Deep [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/aSQy7yHj6nPD44RNo)
+
+>People who *try to seem* Deeply Wise often end up seeming hollow, echoing as it were, because they're trying to seem Deeply Wise instead of **optimizing**.
+
+>I suspect this is one reason Eastern philosophy seems deep to Westerners—it has nonstandard but coherent cache for Deep Wisdom.  Symmetrically, in works of Japanese fiction, one sometimes finds Christians depicted as repositories of deep wisdom and/or mystical secrets.
+
+>To *seem* deep, study nonstandard philosophies.  Seek out discussions on topics that will give you a chance to appear deep.  Do your philosophical thinking in advance, so you can concentrate on explaining well.  Above all, practice staying within the one-inferential-step bound.
+
+## We Change Our Minds Less Often Than We Think [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/buixYfcXBah9hbSNZ)
+
+>I realized that *once I could guess what my answer would be*—once I could assign a higher probability to deciding one way than other—then I had, in all probability, already decided.  We change our minds less often than we think.  And most of the time we become able to guess what our answer will be within half a second of hearing the question.
+
+>How swiftly that unnoticed moment passes, when we can't yet guess what our answer will be; the tiny window of opportunity for intelligence to act.  In questions of choice, as in questions of fact.
+
+## Hold Off On Proposing Solutions [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/uHYYA32CKgKT3FagE)
+
+>Traditional Rationality emphasizes *falsification—* the ability to *relinquish* an initial opinion when confronted by clear evidence against it.  But once an idea gets into your head, it will probably require way too much evidence to get it out again.  Worse, we don't always have the luxury of overwhelming evidence.
+
+>I suspect that a more powerful (and more difficult) method is to *hold off on thinking of an answer*.  To suspend, draw out, that tiny moment when we can't yet guess what our answer will be; thus giving our intelligence a longer time in which to act. Even half a minute would be an improvement over half a second.
+
+## The Genetic Fallacy [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/KZLa74SzyKhSJ3M55)
+
+>In lists of logical fallacies, you will find included "the genetic fallacy"—the fallacy attacking a belief, based on someone's causes for believing it.
+
+>The genetic fallacy is formally a fallacy, because the *original cause* of a belief is not the same as its *current justificational status*, the sum of all the support and antisupport *currently* known.
+
+>Clearing your mind is a *powerful heuristic* when you're faced with new suspicion that many of your ideas may have come from a flawed source.
+
+>It takes a convulsive effort to *actually reconsider*, instead of letting your mind fall into the pattern of rehearsing cached arguments.  "It ain't a true crisis of faith unless things could just as easily go either way," said Thor Shenkel.
+
+>You should be *extremely suspicious* if you have many ideas suggested by a source that you now know to be untrustworthy, but by golly, it seems that all the ideas still ended up being right—the Bible being the obvious archetypal example.
+
+# Death Spirals [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ)
+
+## The Affect Heuristic [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/Kow8xRzpfkoY7pa69)
+
+> that feeling was an integral component of the machinery of reason. 
+
+>“In short, somatic markers are . . . feelings generated from secondary emotions. These emotions and feelings have been connected, by learning, to predicted future outcomes of certain scenarios” (Damasio, 1994, p. 174). When a negative somatic marker is linked to an image of a future outcome it sounds an alarm. When a positive marker is associated with the outcome image, it becomes a beacon of incentive. Damasio concludes that somatic markers increase the accuracy and efficiency of the decision process and their absence degrades decision performance. 
+
+High odds *signal* success. Payoff is ignored, because it isn't as easily evaluable.
+
+By adding a loss chance, you make "net gain" evaluable and all of a sudden the lower odds gamble seems better then the safe gain of a low payoff.
 

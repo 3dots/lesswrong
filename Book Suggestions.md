@@ -20,6 +20,9 @@ McDermott
 Rationality and the English Language  
 Book Suggestion: A Dictionary of Philosophical Quotations https://books.google.ca/books?id=NK2dLn48zWIC&pg=PA338&lpg=PA338&ots=vDJyvFZotS&sig=5Z1ZG8_yfTFIUpCIq_YSUgR749M&redir_esc=y&hl=en#PPA338,M1
 
+7. Rationality A-Z: Book II. Singlethink  
+Judgment Under Uncertainty (overview of biases literature)
+
 - Rationality A-Z: Book I. Religion's Claim to be Non-Disprovable  
 Asimov's Guide to the Bible; an introduction to the
 historical background behind the Bible.
