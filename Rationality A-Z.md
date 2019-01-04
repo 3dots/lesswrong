@@ -1648,3 +1648,90 @@ High odds *signal* success. Payoff is ignored, because it isn't as easily evalua
 
 By adding a loss chance, you make "net gain" evaluable and all of a sudden the lower odds gamble seems better then the safe gain of a low payoff.
 
+> imaging the numerator: neglecting probablity in favor of larger pool of desired instances. 10% is judged more laxly then 10/100...
+
+**veridical**: truthful. coinciding with reality.
+
+>Today’s pain, hunger, anger, etc. are palpable, but the same sensations anticipated in the future receive little weight.
+
+> That is, the one-day difference between today and tomorrow looms much larger than the difference between one year from now and one year and a day from now (Gibbon, 1977). 
+
+**idiosyncrasy**: a mode of behavior or way of thought peculiar to an individual.
+
+## Evaluability (And Cheap Holiday Shopping) [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/3T6p93Mut7G8qdkAs)
+
+Evaluably good products are seen as more generous. I.e. buy a 45$ scarf vs a 55$ coat as a present.
+
+## Unbounded Scales, Huge Jury Awards, & Futurism [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/5u5THLyRkTpPHiaG5)
+
+> The *ratios* between stimuli will continue to correlate reliably between subjects.  Subject A says that sound X has a loudness of 10 and sound Y has a loudness of 15.  If subject B says that sound X has a loudness of 100, then it's a good guess that subject B will assign loudness in the range of 150 to sound Y.
+
+>For a subject rating a *single* sound, on an *unbounded* scale, without a fixed standard of comparison, nearly *all* the variance is due to the arbitrary choice of modulus, rather than the sound itself.
+
+>I observe that many *futuristic predictions* are, likewise, best considered as attitude expressions.
+
+## The Halo Effect [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/ACGeaAk6KButv2xwQ)
+
+>The halo effect is that perceptions of all positive traits are correlated. 
+
+>The influence of attractiveness on ratings of intelligence, honesty, or kindness is a clear example of bias—especially when you judge these other qualities based on fixed text—because we wouldn't expect judgments of honesty and attractiveness to conflate for any legitimate reason.  On the other hand, how much of my perceived intelligence is due to my honesty?  How much of my perceived honesty is due to my intelligence?  Finding the truth, and saying the truth, are not as widely separated in nature as looking pretty and looking smart...
+
+>But these studies on the halo effect of attractiveness, should make us suspicious that there may be a similar halo effect for kindness, or intelligence.  Let's say that you know someone who not only seems very intelligent, but also honest, altruistic, kindly, and serene.  You should be suspicious that some of these perceived characteristics are influencing your perception of the others.  Maybe the person is genuinely intelligent, honest, and altruistic, but not all that kindly or serene.  You should be suspicious if the people you know seem to separate too cleanly into devils and angels.
+
+## Superhero Bias [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/krMzmSXgvEdf7iBT6)
+
+>The bias I wish to point out is that Gandhi's fame score seems to get perceptually added to his justly accumulated altruism score. When you think about nonviolence, you think of Gandhi—not an anonymous protestor in one of Gandhi's marches who faced down riot clubs and guns, and got beaten, and had to be taken to the hospital, and walked with a limp for the rest of her life, and *noone ever remembered her name*.
+
+>After we've done our best to reduce risk and increase scope, any *remaining* heroism is well and truly revealed.
+
+## Mere Messiahs [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/Tv7WWhgbKMWzEnMmx)
+
+## Affective Death Spirals[link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/XrzQW69HpidzvBxGr)
+
+>The halo effect is that any perceived positive characteristic (such as attractiveness or strength) increases perception of any other positive characteristic (such as intelligence or courage).  Even when it makes no sense, or less than no sense.
+
+>Weak positive affect is subcritical; it doesn't spiral out of control.  An attractive person seems more honest, which, perhaps, makes them seem more attractive; but the effective neutron multiplication factor is less than 1.  Metaphorically speaking.  The resonance confuses things a little, but then dies out.
+
+>With intense positive affect attached to the Great Thingy, the resonance touches everywhere. Every time they use the Great Idea to interpret another event, the Great Idea is confirmed all the more.  It feels better—positive reinforcement—and of course, when something feels good, that, alas, makes us *want* to believe it all the more.
+
+**"affective death spiral"**
+
+## Resist the Happy Death Spiral [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g)
+
+>The really dangerous cases are the ones where *any criticism of any positive claim about the Great Thingy feels bad or is socially unacceptable*.  Arguments are soldiers, any positive claim is a soldier on our side, stabbing your soldiers in the back is treason.  Then the chain reaction goes *super*critical. 
+
+>Cut up your Great Thingy into smaller independent ideas, and *treat them as independent*. Hopefully this leads you away from the good or bad feeling, and toward noticing the confusion and lack of support.
+
+you *do* avoid a Happy Death Spiral by: 
+1. splitting the Great Idea into parts.
+2. treating every additional detail as burdensome.
+3. thinking about the specifics of the causal chain instead of the good or bad feelings.
+4. not rehearsing evidence.
+5. not adding happiness from claims that "you can't prove are wrong"; 
+
+but not by 
+* refusing to admire anything too much
+* conducting a biased search for negative points until you feel unhappy again
+* forcibly shoving an idea into a safe box.
+
+## Uncritical Supercriticality [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/NCefvet6X3Sd4wrPc)
+
+>If a tree falls in a forest and no one hears it, does it make a sound?  
+If you want to know whether landmines will detonate, you will not get lost in fighting over the meaning of the word "sound".
+
+**No true Scotsman**/**appeal to purity**: an informal fallacy in which one attempts to protect a universal generalization from counterexamples by changing the definition in an ad hoc fashion to exclude the counterexample.
+
+>What you really want to know—what the argument was originally about—is why, at certain points in human history, large groups of people were slaughtered and tortured, ostensibly in the name of an idea.  Redefining a word won't change the facts of history one way or the other.
+___
+
+> "If your brother, the son of your father or of your mother, or your son or daughter, or the spouse whom you embrace, or your most intimate friend, tries to secretly seduce you, saying, 'Let us go and serve other gods,' unknown to you or your ancestors before you, gods of the peoples surrounding you, whether near you or far away, anywhere throughout the world, you must not consent, **you must not listen to him**; you must show him no pity, you must not spare him or conceal his guilt. No, **you must kill him**, your hand must strike the first blow in putting him to death and the hands of the rest of the people following.  You must stone him to death, since he has tried to divert you from Yahweh your God."  (Deuteronomy 13:7-11, emphasis added)
+
+This was likewise the rule which Stalin set for Communism, and Hitler for Nazism: if your brother tries to tell you why Marx is wrong, if your son tries to tell you the Jews are not planning world conquest, then do not debate him or set forth your own evidence; do not perform replicable experiments or examine history; but turn him in at once to the secret police.
+___
+
+>hopefully reduce the resonance to below criticality, so that one nice-sounding claim triggers less than 1.0 additional nice-sounding claims, on average.
+
+>In short, I argue "naturalism" means, in the simplest terms, that every mental thing is entirely caused by fundamentally nonmental things, and is entirely dependent on nonmental things for its existence. Therefore, "supernaturalism" means that at least some mental things cannot be reduced to nonmental things.
+
+>Thus Clarke's Third Law ("any sufficiently advanced technology is indistinguishable from magic") is only, at best, an epistemological principle, not a metaphysical one. Metaphysically, magic and technology are very definitely always distinguishable.
+
