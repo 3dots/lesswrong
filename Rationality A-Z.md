@@ -1702,7 +1702,7 @@ Evaluably good products are seen as more generous. I.e. buy a 45$ scarf vs a 55$
 
 >Cut up your Great Thingy into smaller independent ideas, and *treat them as independent*. Hopefully this leads you away from the good or bad feeling, and toward noticing the confusion and lack of support.
 
-you *do* avoid a Happy Death Spiral by: 
+you *do* avoid a **Happy Death Spiral** by: 
 1. splitting the Great Idea into parts.
 2. treating every additional detail as burdensome.
 3. thinking about the specifics of the causal chain instead of the good or bad feelings.
@@ -1735,3 +1735,120 @@ ___
 
 >Thus Clarke's Third Law ("any sufficiently advanced technology is indistinguishable from magic") is only, at best, an epistemological principle, not a metaphysical one. Metaphysically, magic and technology are very definitely always distinguishable.
 
+**antecedent**: a thing or event that existed before or logically precedes another.
+
+>The vast majority of possible beliefs in a nontrivial answer space are false, and likewise, the vast majority of possible supporting arguments for a true belief are also false, and not even the happiest idea can change that.
+
+## Evaporative Cooling of Group Beliefs [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/ZQG9cwKbct2LtmL3p)
+
+>In Festinger's classic "When Prophecy Fails", one of the cult members walked out the door immediately after the flying saucer failed to land.  Who gets fed up and leaves *first*?  An *average* cult member?  Or a relatively more skeptical member, who previously might have been acting as a voice of moderation, a brake on the more fanatic members?
+
+>This is one reason why it's important to be prejudiced in favor of tolerating dissent.  Wait until substantially *after* it seems to you justified in ejecting a member from the group, before actually ejecting.  If you get rid of the old outliers, the group position will shift, and someone else will become the oddball.  If you eject them too, you're well on the way to becoming a Bose-Einstein condensate and, er, exploding.
+
+>My own theory of Internet moderation is that you have to be willing to exclude trolls and spam to get a conversation going.  You must even be willing to exclude kindly but technically uninformed folks from technical mailing lists if you want to get any work done.  A genuinely open conversation on the Internet degenerates fast.  It's the *articulate* trolls that you should be wary of ejecting, on this theory—they serve the hidden function of legitimizing less extreme disagreements.  But you should not have so many articulate trolls that they begin arguing with each other, or begin to dominate conversations.  If you have one person around who is the famous Guy Who Disagrees With Everything, anyone with a more reasonable, more moderate disagreement won't look like the sole nail sticking out.  This theory of Internet moderation may not have served me too well in practice, so take it with a grain of salt.
+
+## When None Dare Urge Restraint [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/Tw9cLvzSKrkGjNHW3)
+
+>That's the challenge of pessimism; it's *really hard* to aim low enough that you're pleasantly surprised around as often and as much as you're unpleasantly surprised.
+
+>Initially, on 9/11, it was thought that six thousand people had died.  Any politician who'd said "6000 deaths is 1/8 the annual US casualties from automobile accidents," would have been asked to resign the same hour.
+
+>This is the even darker mirror of the **happy death spiral**—the **spiral of hate**.
+
+>Anyone who attacks the Enemy is a patriot; and whoever tries to dissect even a single negative claim about the Enemy is a traitor.  But just as the vast majority of all complex statements are untrue, the vast majority of negative things you can say about anyone, even the worst person in the world, are untrue.
+
+>It is just too dangerous for there to be any target in the world, whether it be the Jews or Adolf Hitler, about whom *saying negative things* trumps *saying accurate things*.
+
+>When the defense force contains thousands of aircraft and hundreds of thousands of heavily armed soldiers, one ought to consider that the immune system itself is capable of wreaking more damage than 19 guys and four nonmilitary airplanes.  The US spent billions of dollars and thousands of soldiers' lives shooting off its own foot more effectively than any terrorist group could dream.
+
+>Once restraint becomes unspeakable, no matter where the discourse starts out, the level of fury and folly can only rise with time.
+
+## The Robbers Cave Experiment [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/MBpj3QKfPg9xKNeXW)
+
+>(The Outside Enemy, one of the oldest tricks in the book.)
+
+## Every Cause Wants To Be A Cult [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/yEjaj7PWacno5EvWa)
+
+>The ingroup-outgroup dichotomy is part of ordinary human nature.  So are **happy death spirals** and **spirals of hate**.  A Noble Cause doesn't need a deep hidden flaw for its adherents to form a cultish in-group.  It is sufficient that the adherents be human.  Everything else follows naturally, decay by default, like food spoiling in a refrigerator after the electricity goes off.
+
+>Every group of people with an unusual goal—good, bad, or silly—will trend toward the cult attractor unless they make a constant effort to resist it.  You can keep your house cooler than the outdoors, but you have to run the air conditioner constantly, and as soon as you turn off the electricity—give up the fight against entropy—things will go back to "normal".
+
+>Worshipping rationality won't make you sane any more than worshipping gravity enables you to fly.  You can't talk to thermodynamics and you can't pray to probability theory.  You can *use* it, but not join it as an in-group.
+
+>Cultishness is quantitative, not qualitative.  The question is not "Cultish, yes or no?" but "How much cultishness and where?"  Even in Science, which is the archetypal Genuinely Truly Noble Cause, we can readily point to the current frontiers of the war against cult-entropy, where the current battle line creeps forward and back.  Are journals more likely to accept articles with a well-known authorial byline, or from an unknown author from a well-known institution, compared to an unknown author from an unknown institution?  How much belief is due to authority and how much is from the experiment?  Which journals are using blinded reviewers, and how effective is blinded reviewing?  
+I cite this example, rather than the standard vague accusations of "Scientists aren't open to new ideas", because it shows a *battle line*—a place where human psychology is being actively driven back, where accumulated cult-entropy is being pumped out.  (Of course this requires emitting some waste heat.)
+
+>the worthiness of the Cause does not mean you can spend any *less* effort in resisting the cult attractor.  And that if you can point to current battle lines, it does not mean you confess your Noble Cause unworthy.  You might think that if the question were "Cultish, yes or no?" that you were obliged to answer "No", or else betray your beloved Cause.  But that is like thinking that you should divide engines into "perfectly efficient" and "inefficient", instead of measuring waste.
+
+## Guardians of the Truth [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/etBrzxdfNop3DqJvA)
+
+>But the Inquisitors were not Truth-Seekers.  They were Truth-*Guardians*.
+
+>assuming a *defensive* posture toward the truth, versus a *productive* posture toward the truth.
+
+>If there's some way to pump against entropy, generate new true beliefs along with a little waste heat, that same pump can keep the truth alive without secret police.
+
+>Because experiments can recover the truth without need of authority, they can also *override* authority and create new true beliefs where none existed before.
+
+>I don't mean to provide a grand overarching single-factor view of history.  I do mean to point out a deep psychological difference between seeing your grand cause in life as *protecting, guarding, preserving*, versus *discovering, creating, improving*.  Does the "up" direction of time point to the past or the future?  It's a distinction that shades everything, casts tendrils everywhere.
+
+>I would also argue that this basic psychological difference is one of the reasons why an academic field that stops making active progress tends to turn *mean*.  (At least by the refined standards of science.  *Reputational* assassination is tame by historical standards; most defensive-posture belief systems went for the real thing.)  If major shakeups don't arrive often enough to regularly promote young scientists based on merit rather than conformity, the field stops resisting the standard degeneration into authority.  When there's not many discoveries being made, there's nothing left to do all day but witch-hunt the heretics.
+
+## Guardians of the Gene Pool [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/aFtWRL3QihoF5uQd5)
+
+>You may remember that Hitler and the Nazis planned to carry forward a romanticized process of evolution, to breed a new master race, supermen, stronger and smarter than anything that had existed before.  
+Actually this is a common misconception.  Hitler believed that the Aryan superman *had previously existed*—the Nordic stereotype, the blond blue-eyed beast of prey—but had been *polluted* by mingling with impure races.  There had been a racial Fall from Grace.
+
+>It says something about how difficult it is for the relatively healthy to envision themselves in the shoes of the relatively sick, that we are told of the Nazis, and distort the tale to make them defective transhumanists.
+
+>It's the Communists who were the defective transhumanists.  "New Soviet Man" and all that.  The Nazis were quite definitely the bioconservatives of the tale.
+
+## Guardians of Ayn Rand [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/96TBXaHwLbFyeAxrg)
+
+>To me the thought of voluntarily embracing a system explicitly tied to the beliefs of one human being, who's *dead*, falls somewhere between the silly and the suicidal.  A computer isn't five years old before it's obsolete.
+
+>It takes a much stronger constitution to fear authority when *you* have the power.  When people are looking to *you* for answers, it's harder to say "What the hell do I know about music? I'm a writer, not a composer," or "It's hard to see how liking a piece of music can be untrue."
+
+>When *you're* the one crushing those who dare offend you, the exercise of power somehow seems much more *justifiable* than when you're the one being crushed.  All sorts of excellent justifications somehow leap to mind.
+
+>Ayn Rand fled the Soviet Union, wrote a book about individualism that a lot of people liked, got plenty of compliments, and formed a coterie of admirers. Her admirers found nicer and nicer things to say about her (**happy death spiral**), and she enjoyed it too much to tell them to shut up.  She found herself with the power to crush those of whom she disapproved, and she didn't resist the temptation of power.
+
+>The only extraordinary thing about the whole business, is how ordinary it was.
+
+>Let that be a lesson to all of us:  Praising "rationality" counts for nothing.  Even saying "You must justify your beliefs through Reason, not by agreeing with the Great Leader" just runs a little automatic program that takes whatever the Great Leader says and generates a justification that your fellow followers will view as Reason-able.
+
+>So where is the true art of rationality to be found?  Studying up on the math of probability theory and decision theory.  Absorbing the cognitive sciences like evolutionary psychology, or heuristics and biases.  Reading history books...
+
+>*progress isn't fair!  That's the point!*
+
+>The great Names are not our superiors, or even our rivals, they are passed milestones on our road; and the most important milestone is the hero yet to come.
+
+>To be one more milestone in humanity's road is the best that can be said of anyone; but this seemed too lowly to please Ayn Rand.  And that is how she became a mere Ultimate Prophet.
+
+## Two Cult Koans [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/Qr4MB9hFRzamuMRHJ)
+
+>"If you find a hammer lying in the road and sell it, you may ask a low price or a high one.  But if you keep the hammer and use it to drive nails, who can doubt its worth?"
+
+## Asch's Conformity Experiment [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/WHK94zXkQm7qm7wXk)
+
+>If you were looking at a diagram like the one above, but you knew *for a fact* that the other people in the experiment were honest and seeing the same diagram as you, and three other people said that C was the same size as X, then what are the odds that *only you* are the one who's right?  I lay claim to no advantage of *visual* reasoning—I don't think I'm better than an average human at judging whether two lines are the same size.  In terms of individual rationality, I hope I would notice my own severe confusion and then assign >50% probability to the majority vote.
+
+>In terms of group rationality, seems to me that the proper thing for an honest rationalist to say is, "How surprising, it *looks* to me like B is the same size as X.  But if we're all looking at the same diagram and reporting honestly, I have no reason to believe that my assessment is better than yours."  The last sentence is important—it's a much weaker claim of disagreement than, "Oh, *I* see the optical illusion—I understand why you think it's C, of course, but the real answer is B."
+
+>Unsurprisingly, subjects in the one-dissenter condition did not think their nonconformity had been influenced or enabled by the dissenter.
+
+>Being the first dissenter is a valuable (and costly!) social service, but you've got to keep it up.
+
+>Consistently within and across experiments, all-female groups (a female subject alongside female confederates) conform significantly more often than all-male groups.  Around one-half the women conform more than half the time, versus a third of the men.
+
+## On Expressing Your Concerns [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/ovvwAhKKoNbfcMz8K)
+
+>And the *wearisome* thing is that dissent was not *learned* over the course of the experiment—when the single dissenter started siding with the group, rates of conformity rose back up.
+
+>Being a voice of dissent can bring real benefits to the group.  But it also (famously) has a cost.  And then you have to keep it up.  Plus you could be wrong.
+
+>An individual, working alone, will have natural doubts.  They will think to themselves, "Can I really do XYZ?", because there's nothing impolite about doubting your *own* competence.  But when two unconfident people form a group, it is polite to say nice and reassuring things, and impolite to question the other person's competence.
+
+>The most fearsome possibility raised by Asch's experiments on conformity is the specter of everyone agreeing with the group, swayed by the confident voices of others, careful not to let their own doubts show—not realizing that others are suppressing similar worries.  This is known as "**pluralistic ignorance**".
+
+>Therefore it is written:  "Do not believe you do others a favor if you accept their arguments; the favor is to you."

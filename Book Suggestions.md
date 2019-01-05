@@ -7,6 +7,9 @@
 2. Rationality A-Z: Book I.  
 Reread Feynman Lectures on Physics.
 
+3. Rationality A-Z: Book II Guardians of Ayn Rand  
+Atlas Shrugged by Ayn Rand
+
 3. Rationality A-Z: Book I. Guessing the Teacher's Password   
 QED: The Strange Theory of Light and Matter. Richard Feynman
 
@@ -16,9 +19,8 @@ Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference
 5. Rationality A-Z: Book I. Truly Part Of You  
 McDermott
 
-6. 
-Rationality and the English Language  
-Book Suggestion: A Dictionary of Philosophical Quotations https://books.google.ca/books?id=NK2dLn48zWIC&pg=PA338&lpg=PA338&ots=vDJyvFZotS&sig=5Z1ZG8_yfTFIUpCIq_YSUgR749M&redir_esc=y&hl=en#PPA338,M1
+6. Rationality and the English Language  
+A Dictionary of Philosophical Quotations https://books.google.ca/books?id=NK2dLn48zWIC&pg=PA338&lpg=PA338&ots=vDJyvFZotS&sig=5Z1ZG8_yfTFIUpCIq_YSUgR749M&redir_esc=y&hl=en#PPA338,M1
 
 7. Rationality A-Z: Book II. Singlethink  
 Judgment Under Uncertainty (overview of biases literature)
