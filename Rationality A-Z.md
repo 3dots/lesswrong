@@ -1,138 +1,4 @@
-## Globals for later inquiry 
 
-Software book read... or listen to?
-
-7:12pm 12.17.2018  
-7:20am 12.18.2018
-
-**Dezert-Smarandache Theory**: The management and combination of uncertain, imprecise, fuzzy and even paradoxical or highly conflicting sources of information. 
-
-**Math and Belief** [link](https://www.lesswrong.com/posts/6FmqiAgS8h4EJm86s/how-to-convince-me-that-2-2-3#FSCnmhDvNnTmsNFSr)
-
-Eliezer:
->You know, the concept of the first uncountable ordinal is actually one of the strongest reasons I've ever heard to disbelieve in set theory. ZFC, or rather NBG, does imply the existence of a first uncountable ordinal, right, or am I mistaken? [link](https://www.lesswrong.com/posts/zvXfBqp6TSriNkmbg/harry-potter-and-the-methods-of-rationality-discussion-10#q8rqHkLDAExCytBrv) (Need to load all comments. Has karma 0.)
-
-komponisto:
->>The article's failure to distinguish between a mathematical theory and a mathematical model (map and territory, possibly?)    
-
->Exactly. This is one of Eliezer's few genuine philosophical mistakes, one which, four years later, he's still making.
-
-Elizer:
->I know very well the difference between a collection of axioms and a collection of models of which those axioms are true, thank you.   
-A lot of people seem to have trouble imagining what it means to consider the hypothesis that SS0+SS0 = SSS0 is true in all models of arithmetic, for purposes of deriving predictions which distinguish it from what we should see given the alternative hypothesis that SS0+SS0=SSSS0 is true in all models of arithmetic, thereby allowing internal or external experience to advise you on which of these alternative hypotheses is true.
-
-komponisto:
-> Then why do you persist in saying things like "I don't believe in [Axiom X]/[Mathematical Object Y]"? If this distinction that you are so aptly able to rehearse were truly integrated into your understanding, it wouldn't occur to you to discuss whether you have "seen" a particular cardinal number.   
-I understand the point you wanted to make in this post, and it's a valid one. All the same, it's extremely easy to slip from empiricism to Platonism when discussing mathematics, and parts of this post can indeed be read as betraying that slip (to which you have explicitly fallen victim on other occasions, the most recent being the thread I linked to).
-
-Elizer:
->I don't think people really understood what I was talking about in that thread. I would have to write a sequence about
-
-* the difference between first-order and second-order logic
-* why the Lowenheim-Skolem theorems show that you can talk about integers or reals in higher-order logic but not first-order logic
-* why third-order logic isn't qualitatively different from second-order logic in the same way that second-order logic is qualitatively above first-order logic
-* the generalization of Solomonoff induction to anthropic reasoning about agents resembling yourself who appear embedded in models of second-order theories, with more compact axiom sets being more probable a priori
->Occam's Razor?
-* how that addresses some points Wei Dai has made about hypercomputation not being conceivable to agents using Solomonoff induction on computable Cartesian environments, as well as formalizing some of the questions we argue about in anthropic theory
-why seeing apparently infinite time and apparently continuous space suggests, to an agent using second-order anthropic induction, that we might be living within a model of axioms that imply infinity and continuity
-* why believing that things like a first uncountable ordinal can contain reality-fluid in the same way as the wavefunction, or even be uniquely specified by second-order axioms that pin down a single model up to isomorphism the way that second-order axioms can pin down integerness and realness, is something we have rather less evidence for, on the surface of things, than we have evidence favoring the physical existability of models of infinity and continuity, or the mathematical sensibility of talking about the integers or real numbers.
->Yes. Very words.
-
-**Calibration:**  
-* Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think.
-* lesswrong threads?
-
-Brain parts
-
-Rationality and Alcohol [link](https://www.lesswrong.com/posts/Hs3ymqypvhgFMkgLb/doublethink-choosing-to-be-biased#DmR6Sj2Te56Qcj8fr):
-
-_________________________________
-
-# Closet Survey #1 [link](https://www.lesswrong.com/posts/gPdM553fhdZuNmDxn/closet-survey-1#4hX2EdGkacTA2nC2P)
-
->Suppressing the moral gag reflex is hard to do.
-
->I think many philosophical questions would be clearer, or at least more interesting, if we reconceptualized death as "Persistent Mineral Syndrome".
-
-**mere addition paradox (repugnant conclusion)**: more people who are less happy vs less people who are happier.
-
-Parfit observes that i) A+ seems no worse than A. This is because the people in A are no worse-off in A+, while the additional people who exist in A+ are better off in A+ compared to A (if it is stipulated that their lives are good enough that living them is better than not existing).
-
-Next, Parfit suggests that ii) B− seems better than A+. This is because B− has greater total and average happiness than A+.
-
-Then, he notes that iii) B seems equally as good as B−, as the only difference between B− and B is that the two groups in B− are merged to form one group in B.
-
-Together, these three comparisons entail that B is better than A. However, Parfit observes that when we directly compare A (a population with high average happiness) and B (a population with lower average happiness, but more total happiness because of its larger population), it may seem that B can be worse than A.
-
-Thus, there is a paradox. The following intuitively plausible claims are jointly incompatible: (a) that A+ is no worse than A, (b) that B− is better than A+, (c) that B− is equally as good as B, and (d) that B can be worse than A. 
-_________________
-
-7:27am 12.18.2018
-- mere addition paradox (repugnant conclusion)
-
-A.I. Constraining Principles.
-
-P(Win | Opponent A) > 50%. 
-P(Win | Opponent A) = 50% + p_a.
-
-Take N ~= 1000 opponents. 
-
-How do you measure the enjoyment Opponent A gains out of the game/challenge/exercise?
-
-What fraction of opponents returns for another round?
-
-P(Opponent A returns for game within C_t time | Game Is Loss) =
-P(Opponent A returns for game within C_t time | Game Is Win) =
-
-That is insufficient.
-
-How do you contrast that with the mental and physical health of the individual opponents?
-
-Injecting heroine into the opponent may result in > 80% retainment rate, but this does not *benefit* the opponent.
-
-P(Opponent A never plays again) = p_r. Constrain p_r < 0.1 - 0.01 .
-
-P(Opponent A feels Misery > v_m from Loss).
-
-Measure how much of a "putdown" losses feel. 
-Measure how much enjoyment was drawn from the game. Loss or Win.
-Need to combine both. 
-
-High enjoyment frequency doesn't excuse rare high magnitude misery.
-
-E_f: enjoyment feeling. 0 - 10.
-M_f: misery feeling. 0 - 10. 
-Not independent.
-
-Wish the Opponent to be sufficiently entertained and not overly put down.
-
-P(E_f, M_f) should concentrate above e_min, and below m_max.
-
-P(E_f > e_min, M_f < m_max) > 95%... or not. Depends on how long you already played and if you shouldn't take some time off for real life.
-
-How much total time does Opponent A have in a day for the game s.t. his (real-life) overall productivity doesn't drop, his relationships with others don't degenerate?
-
-A_t: Daily availability time.
-Eventually sleep is way more important then more gaming. Build in notices for "exceeding healthy timing" ... "increasing difficulty to discourage".
-
-
-Want to increase Quality of the experience, not perturb it's average duration.
-
-
-
-
-
-
-Will is a finite, variable parameter OF THE MODEL and users.
-
-
-
-It's not about doing it right.
-It's about not doing it wrong.
-Each way of failure has to be addressed.
-
-Are the natural heuristics and biases necessary?
-_________________________
 ## Quotes
 >You are not a Bayesian homunculus whose reasoning is 'corrupted' by cognitive biases.
 You just *are* cognitive biases.
@@ -1852,3 +1718,66 @@ Actually this is a common misconception.  Hitler believed that the Aryan superma
 >The most fearsome possibility raised by Asch's experiments on conformity is the specter of everyone agreeing with the group, swayed by the confident voices of others, careful not to let their own doubts show—not realizing that others are suppressing similar worries.  This is known as "**pluralistic ignorance**".
 
 >Therefore it is written:  "Do not believe you do others a favor if you accept their arguments; the favor is to you."
+
+>Unfortunately, there's not much difference *socially* between "expressing concerns" and "disagreement".  A group of rationalists might agree to pretend there's a difference, but it's not how human beings are really wired.  Once you speak out, you've committed a socially irrevocable act; you've become the nail sticking up, the discord in the comfortable group harmony, and you can't undo that.  Anyone insulted by a concern you expressed about their competence to successfully complete task XYZ, will probably hold just as much of a grudge afterward if you say "No problem, I'll go along with the group" at the end. 
+
+## Lonely Dissent [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/CEGnJBHmkcwPTysb7)
+
+>Followup interviews showed that subjects in the one-dissenter condition expressed strong feelings of camaraderie with the dissenter—though, of course, they didn't think the presence of the dissenter had influenced their own nonconformity.
+
+>Lonely dissent doesn't feel like going to school dressed in black.  It feels like going to school wearing a clown suit. That's the difference between *joining the rebellion* and *leaving the pack*.
+
+>When someone wears black to school, the teachers and the other children understand the role thereby being assumed in their society.  It's Outside the System—in a very standard way that everyone recognizes and understands. Not, y'know, *actually* outside the system.  It's a Challenge to Standard Thinking, of a standard sort, so that people indignantly say "I can't understand why you—", but don't have to actually think any thoughts they had not thought before.
+
+>What takes *real* courage is braving the outright *incomprehension* of the people around you, when you do something that *isn't* Standard Rebellion #37, something for which they lack a ready-made script.  They don't hate you for a rebel, they just think you're, like, weird, and turn away.  This prospect generates a much deeper fear.  
+It's the difference between explaining vegetarianism and explaining cryonics. There are other cryonicists in the world, somewhere, but they aren't there next to you.  You have to explain it, alone, to people who just think it's *weird*.  Not forbidden, but outside bounds that people don't even think about.  You're going to get your head frozen?  You think that's going to stop you from dying?  What do you mean, brain information?  Huh?  What?  Are you *crazy*?
+
+>As the case of cryonics testifies, the fear of thinking *really* different is stronger than the fear of death.  Hunter-gatherers had to be ready to face death on a routine basis, hunting large mammals, or just walking around in a world that contained predators.  They needed that courage in order to live.  Courage to defy the tribe's standard ways of thinking, to entertain thoughts that seem truly weird—well, that probably didn't serve its bearers as well.  We don't reason this out explicitly; that's not how evolutionary psychology works.  We human beings are just built in such fashion that many more of us go skydiving than sign up for cryonics.
+
+>To be a *scientific* revolutionary, you've got to be the first person to contradict what everyone else you know is thinking.  This is not the only route to scientific greatness; it is rare even among the great.  No one can become a scientific revolutionary by trying to imitate revolutionariness.  You can only get there by pursuing the correct answer in all things, whether the correct answer is revolutionary or not.  But if, in the due course of time—if, having absorbed all the power and wisdom of the knowledge that has already accumulated—if, after all that and a dose of sheer luck, you find your pursuit of mere correctness taking you into new territory... *then* you have an opportunity for your courage to fail.
+
+>Freethinkers see the deck stacked against new or contrary ideas, and see their own brave contrarian stance as a needed antidote to unreasonable *conformity* pressures.  On net, however, freethinkers deserve much of the *blame* for resistance to new ideas.
+
+>Contrary to their self-image, undiscriminating freethinkers are our main obstacle to innovation.
+
+>Most of the difficulty in having a new true scientific thought is in the "true" part.
+
+>It really isn't *necessary* to be different for the sake of being different.  If you do things differently only when you see an overwhelmingly good reason, you will have more than enough trouble to last you the rest of your life.
+
+>But if you think you would *totally* wear that clown suit, then don't be too proud of that either!  It just means that you need to make an effort in the *opposite direction* to avoid dissenting too easily.  That's what I have to do, to correct for my own nature.  Other people do have reasons for thinking what they do, and ignoring that completely is as bad as being afraid to contradict them.  You wouldn't want to end up as a free thinker.  It's not a *virtue*, you see—just a bias either way.
+
+## Cultish Countercultishness [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/gBma88LH3CLQsqyfS)
+
+> I should probably sympathize more with people who are terribly nervous, embarking on some odd-seeming endeavor, that *they might be joining a cult*.  It should not grate on my nerves.  Which it does.
+
+>But if you observe that a certain group of people seems to exhibit ingroup-outgroup polarization and see a positive halo effect around their Favorite Thing Ever—which could be Objectivism, or vegetarianism, or neural networks—you cannot, *from the evidence gathered so far*, deduce whether they have achieved uncriticality.  You cannot deduce whether their main idea is true, or false, or genuinely useful but not quite as useful as they think.  *From the information gathered so far*, you cannot deduce whether they are otherwise polite, or if they will lure you into isolation and deprive you of sleep and food.  The characteristics of cultness are not all present or all absent.
+
+>You cannot build up an accurate picture of a group's reasoning dynamic using this kind of essentialism.  You've got to pay attention to individual characteristics individually.
+
+>If you're interested in the central *idea*, not just the implementation group, then smart ideas can have stupid followers.  
+
+>Along with binary essentialism goes the idea that if you infer that a group is a "cult", therefore their beliefs must be false, because false beliefs are characteristic of cults, just like cats have fur.  If you're interested in the idea, then look at the idea, not the people.  Cultishness is a characteristic of *groups* more than *hypotheses*.
+
+>surely one can see that *nervously seeking reassurance* is not the best frame of mind in which to evaluate questions of rationality.  You will not be genuinely curious or think of ways to fulfill your doubts.  Instead, you'll find some online source which says that cults use sleep deprivation to control people, you'll notice that Your-Favorite-Group doesn't use sleep deprivation, and you'll conclude "It's not a cult.  Whew!"  If it doesn't have fur, it must not be a cat.  Very reassuring.
+
+>But *any* group with a goal seen in a positive light, is at risk for the halo effect, and will have to pump against entropy to avoid an affective death spiral.  This is true even for ordinary institutions like political parties—people who think that "liberal values" or "conservative values" can cure cancer, etc.  It is true for Silicon Valley startups, both failed and successful.  It is true of Mac users and of Linux users.
+
+>That's why groups whose beliefs have been around long enough to seem "normal" don't inspire the same nervousness as "cults", though some mainstream religions may also take all your money and send you to a monastery.  It's why groups like political parties, that are strongly liable for rationality errors, don't inspire the same nervousness as "cults".  The word "cult" isn't being used to symbolize rationality errors, it's being used as a label for something that *seems weird*.
+
+>And so people ask "This isn't a *cult*, is it?" in a tone that they would never use for attending a political rally, or for putting up a gigantic Christmas display.
+
+>(sarcasm) just goes to show that everyone with an odd belief is crazy; the first and foremost characteristic of "cult members" is that they are Outsiders with Peculiar Ways.
+
+>Yes, socially unusual belief puts a group at risk for ingroup-outgroup thinking and evaporative cooling and other problems.  But the unusualness is a risk factor, not a disease in itself.  Same thing with having a goal that you think is worth accomplishing.  Whether or not the belief is true, having a nice goal always puts you at risk of the happy death spiral.  But that makes lofty goals a risk factor, not a disease.  Some goals are genuinely worth pursuing.
+
+>On the other hand, I see no legitimate reason for sleep deprivation or threatening dissenters with beating, full stop.  When a group does this, then whether you call it "cult" or "not-cult", you have directly answered the pragmatic question of whether to join.
+
+>Doubt shouldn't be scary.  Otherwise you're going to have to choose between living one heck of a hunted life, or one heck of a stupid one.
+
+>If you really, genuinely can't figure out whether a group is a "cult", then you'll just have to choose under conditions of uncertainty.  That's what decision theory is all about.
+
+>People who talk about "rationality" also have an added risk factor.  Giving people advice about how to think is an inherently dangerous business.  But it is a *risk factor*, not a *disease*.
+
+*It is your own responsibility to stop yourself from thinking cultishly, no matter which group you currently happen to be operating in.*
+
+>A skillful swordsman focuses on the target, rather than glancing away to see if anyone might be laughing.  When you know what you're trying to do and why, you'll know whether you're getting it done or not, and whether a group is helping you or hindering you.
