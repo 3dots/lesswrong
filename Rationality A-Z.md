@@ -11,8 +11,6 @@ _________________________
 
 ## Preface [link](https://www.lesswrong.com/posts/uXn3LyA8eNqpvdoZw/preface)
 
-(READ) Book Suggestion: Surely You’re Joking, Mr. Feynman
-
 # Map and Territory *The First Book*
 
 ## Biases: An Introduction: [link](https://www.lesswrong.com/posts/uXn3LyA8eNqpvdoZw/preface)
