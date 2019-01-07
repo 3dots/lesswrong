@@ -1779,3 +1779,4 @@ It's the difference between explaining vegetarianism and explaining cryonics. Th
 *It is your own responsibility to stop yourself from thinking cultishly, no matter which group you currently happen to be operating in.*
 
 >A skillful swordsman focuses on the target, rather than glancing away to see if anyone might be laughing.  When you know what you're trying to do and why, you'll know whether you're getting it done or not, and whether a group is helping you or hindering you.
+
