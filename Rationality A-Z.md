@@ -1780,3 +1780,12 @@ It's the difference between explaining vegetarianism and explaining cryonics. Th
 
 >A skillful swordsman focuses on the target, rather than glancing away to see if anyone might be laughing.  When you know what you're trying to do and why, you'll know whether you're getting it done or not, and whether a group is helping you or hindering you.
 
+
+# 12.13pm 1.17.2019 work
+
+Detecting departures from a safety envelope.
+
+Ensuring that the initial agent’s reasoning about
+its future versions is reliable,  even if these fu-
+ture versions are far more intelligent than the
+current reasoner.
