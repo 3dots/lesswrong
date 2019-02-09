@@ -1781,11 +1781,50 @@ It's the difference between explaining vegetarianism and explaining cryonics. Th
 >A skillful swordsman focuses on the target, rather than glancing away to see if anyone might be laughing.  When you know what you're trying to do and why, you'll know whether you're getting it done or not, and whether a group is helping you or hindering you.
 
 
-# 12.13pm 1.17.2019 work
+# Letting Go
 
-Detecting departures from a safety envelope.
+## The Importance of Saying "Oops" [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/wCqfCLs8z5Qw4GbKS)
 
-Ensuring that the initial agent’s reasoning about
-its future versions is reliable,  even if these fu-
-ture versions are far more intelligent than the
-current reasoner.
+## The Crackpot Offer [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9)
+
+>When I was very young—I think thirteen or maybe fourteen—I thought I had found a disproof of Cantor's Diagonal Argument, a famous theorem which demonstrates that the real numbers outnumber the rational numbers.  Ah, the dreams of fame and glory that danced in my head!  
+So I found this counterexample, and saw that my attempted disproof was false, along with my dreams of fame and glory.
+
+>And then I realized something.  I realized that I had made a mistake, and that, now that I'd spotted my mistake, there was absolutely no reason to suspect the strength of Cantor's Diagonal Argument any more than other major theorems of mathematics.  
+I saw then very clearly that I was being offered the opportunity to become a math crank, and to spend the rest of my life writing angry letters in green ink to math professors.  (I'd read a book once about math cranks.)
+
+>Until you admit you were wrong, you cannot get on with your life; your self-image will still be bound to the old mistake.
+
+## Just Lose Hope Already [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/waqC6FihC2ryAZuAq)
+
+>Every profession has a different way to be smart—different skills to learn and rules to follow.  You might therefore think that the study of "rationality", as a general discipline, wouldn't have much to contribute to real-life success.  And yet it seems to me that *how to not be stupid* has a great deal in common across professions.  If you set out to teach someone *how to not turn little mistakes into big mistakes*, it's nearly the same art whether in hedge funds or romance, and one of the keys is this:  Be ready to admit you lost.
+
+## You Can Face Reality [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/HYWhKXRsMAyvRKRYz)
+
+>What is true is already so.  
+Owning up to it doesn't make it worse.  
+Not being open about it doesn't make it go away.  
+And because it's true, it is what is there to be interacted with.  
+Anything untrue isn't there to be lived.  
+People can stand what is true,  
+for they are already enduring it.  
+—*Eugene Gendlin*
+
+## The Meditation on Curiosity [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/3nZMgRTfFEfHp34Gb)
+
+>Consider what happens to you, on a psychological level, if you begin by saying:  "It is my duty to criticize my own beliefs."  Roger Zelazny once distinguished between "wanting to be an author" versus "wanting to write".  Mark Twain said:  "A classic is something that everyone wants to have read and no one one wants to read."  Criticizing yourself from a sense of duty leaves you *wanting to have investigated*, so that you'll be able to say afterward that your faith is not blind.  This is not the same as *wanting to investigate*.
+
+>This can lead to motivated stopping of your investigation.  You consider an objection, then a counterargument to that objection, then you *stop there*.  You repeat this with several objections, until you feel that you have done your duty to investigate, and then you *stop there*. You have achieved your underlying psychological objective: to get rid of the cognitive dissonance that would result from thinking of yourself as a rationalist, and yet knowing that you had not tried to criticize your belief.  You might call it purchase of rationalist satisfaction—trying to create a "warm glow" of discharged duty.  
+Afterward, your stated probability level will be high enough to justify your keeping the plans and beliefs you started with, but not so high as to evoke incredulity from yourself or other rationalists.
+
+>When you're really curious, you'll gravitate to inquiries that seem most promising of producing shifts in belief, or inquiries that are least like the ones you've tried before.  Afterward, your probability distribution likely should **not** look like it did when you started out—shifts should have occurred, whether up or down; and either direction is equally fine to you, if you're genuinely curious.
+
+>"If in your heart you believe you already know, or if in your heart you do not wish to know, then your questioning will be purposeless and your skills without direction.  Curiosity seeks to annihilate itself; there is no curiosity that does not want an answer."
+
+>So what can you do with duty?  For a start, we can try to take an interest in our dutiful investigations—keep a close eye out for sparks of genuine intrigue, or even genuine ignorance and a desire to resolve it.  This goes right along with keeping a special eye out for possibilities that are painful, that you are flinching away from—it's not all negative thinking.  
+It should also help to meditate on Conservation of Expected Evidence. 
+
+>If you can find within yourself the slightest shred of true uncertainty, then guard it like a forester nursing a campfire.  If you can make it blaze up into a flame of curiosity, it will make you light and eager, and give purpose to your questioning and direction to your skills.
+
+## No One Can Exempt You From Rationality's Laws [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/eY45uCCX7DdwJ4Jha)
+
