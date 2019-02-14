@@ -4,6 +4,8 @@
 1. Rationality A-Z: Book I. What Do We Mean By "Rationality"?  
 (READING 2.3/22) Probability Theory: The Logic of Science by E. T. Jaynes [link](http://omega.albany.edu:8008/JaynesBook.html)
 
+
+
 2. Rationality A-Z: Book I.  
 Reread Feynman Lectures on Physics.
 
@@ -12,6 +14,9 @@ Atlas Shrugged by Ayn Rand
 
 3. Rationality A-Z: Book I. Guessing the Teacher's Password   
 QED: The Strange Theory of Light and Matter. Richard Feynman
+
+4. Rationality A-Z: Book II. Crisis of Faith  
+(Lord Kalvan of Otherwhen, The Cross-Time Engineer).
 
 4. Rationality A-Z: Book I. Fake Causality  
 Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference

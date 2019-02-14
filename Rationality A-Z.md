@@ -1822,9 +1822,52 @@ Afterward, your stated probability level will be high enough to justify your kee
 >"If in your heart you believe you already know, or if in your heart you do not wish to know, then your questioning will be purposeless and your skills without direction.  Curiosity seeks to annihilate itself; there is no curiosity that does not want an answer."
 
 >So what can you do with duty?  For a start, we can try to take an interest in our dutiful investigations—keep a close eye out for sparks of genuine intrigue, or even genuine ignorance and a desire to resolve it.  This goes right along with keeping a special eye out for possibilities that are painful, that you are flinching away from—it's not all negative thinking.  
-It should also help to meditate on Conservation of Expected Evidence. 
+It should also help to meditate on Conservation of Expected Evidence.
 
 >If you can find within yourself the slightest shred of true uncertainty, then guard it like a forester nursing a campfire.  If you can make it blaze up into a flame of curiosity, it will make you light and eager, and give purpose to your questioning and direction to your skills.
 
 ## No One Can Exempt You From Rationality's Laws [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/eY45uCCX7DdwJ4Jha)
+
+>Humans detect social cheating with much greater reliability than isomorphic violations of abstract logical rules.  But viewing rationality as a social obligation gives rise to some strange ideas.
+
+>To Bayesians, the brain is an engine of accuracy: it processes and concentrates entangled evidence into a map that reflects the territory.  The principles of rationality are laws in the same sense as the second law of thermodynamics: obtaining a reliable belief requires a calculable amount of entangled evidence, just as reliably cooling the contents of a refrigerator requires a calculable minimum of free energy.
+
+>Before you try mapping an unseen territory, pour some water into a cup at room temperature and wait until it spontaneously freezes before proceeding.  That way you can be sure the general trick—ignoring infinitesimally tiny probabilities of success—is working properly.  You might not realize directly that your map is wrong, especially if you never visit New York; but you can see that water doesn't freeze itself.
+
+>Lady Nature is famously indifferent to such pleading, and so is Lady Math.
+
+>So—to shift back to the social language of Traditional Rationality—don't think you can *get away with* claiming that it's okay to have arbitrary beliefs about XYZ, because other people have arbitrary beliefs too.  If two parties to a contract both behave equally poorly, a human judge may decide to impose penalties on neither.  But if two engineers design their engines equally poorly, neither engine will work.  One design error cannot excuse another.  Even if *I'm* doing XYZ wrong, it doesn't help you, or exempt you from the rules; it just means we're both screwed.
+
+## Leave a Line of Retreat [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/3XgYbghWruBMrPTAL)
+
+>As a matter of self-respect you should try to believe the truth no matter how uncomfortable it is, like I said before; but as a matter of human nature, it helps to make a belief less uncomfortable, *before* you try to evaluate the evidence for it."  
+The principle behind the technique is simple:  As Sun Tzu advises you to do with your enemies, you must do with yourself—leave yourself a line of retreat, so that you will have less trouble retreating.  The prospect of losing your job, say, may seem a lot more scary when you can't even bear to think about it, than after you have calculated exactly how long your savings will last, and checked the job market in your area, and otherwise planned out exactly what to do next.  Only then will you be ready to fairly assess the probability of keeping your job in the planned layoffs next month.  Be a true coward, and plan out your retreat in detail—visualize every step—preferably before you first come to the battlefield.
+
+>The hope is that it takes less courage to visualize an uncomfortable state of affairs *as a thought experiment*, than to consider *how likely* it is to be true.  But then after you do the former, it becomes easier to do the latter.
+
+>For a start:  You must at least be able to admit to yourself *which* ideas scare you, and which ideas you are attached to.  But this is a substantially less difficult test than fairly counting the evidence for an idea that scares you.  Does it help if I say that I have occasion to use this technique myself?  A rationalist does not reject all emotion, after all.  There are ideas which scare me, yet I still believe to be false.  There are ideas to which I know I am attached, yet I still believe to be true.  But I still plan my retreats, not because I'm planning *to* retreat, but because planning my retreat in advance helps me think about the problem without attachment.
+
+>But greater test of self-honesty is to *really* accept the uncomfortable proposition as a premise, and figure out how you would *really* deal with it.  When we're faced with an uncomfortable idea, our first impulse is naturally to think of all the reasons why it can't possibly be so.  And so you will encounter a certain amount of psychological resistance in yourself, if you try to visualize exactly how the world would be, and what you would do about it, if My-Most-Precious-Belief were false, or My-Most-Feared-Belief were true.
+
+>I say this, to show that it *is* a considerable challenge to visualize the way you *really would* react, to believing the opposite of a tightly held belief.
+
+>You shouldn't be afraid to just visualize a world you fear.  If that world is already actual, visualizing it won't make it worse; and if it is not actual, visualizing it will do no harm.  And remember, as you visualize, that if the scary things you're imagining really are true—which they may not be!—then you would, indeed, want to believe it, and you should visualize that too; not believing wouldn't help you.
+
+## Crisis of Faith [link](https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/BcYBfG8KomcpcxkEg)
+
+"It ain't a true crisis of faith unless things could just as easily go either way."
+—Thor Shenkel
+
+>And yet skillful scientific specialists, even the major innovators of a field, even in this very day and age, do not apply that skepticism successfully.  Nobel laureate Robert Aumann, of Aumann's Agreement Theorem, is an Orthodox Jew:  I feel reasonably confident in venturing that Aumann must, at one point or another, have questioned his faith.  And yet he did not doubt successfully.  We change our minds less often than we think.
+
+>This should scare you down to the marrow of your bones.  It means you can be a world-class scientist *and* conversant with Bayesian mathematics *and* still fail to reject a belief whose absurdity a fresh-eyed ten-year-old could see.  It shows the invincible defensive position which a belief can create for itself, if it has long festered in your mind.
+
+>What does it take to defeat an error which has built itself a fortress?  
+But by the time you *know* it is an error, it is already defeated.  The dilemma is not "How can I reject long-held false belief X?" but "How do I know if long-held belief X is false?"  Self-honesty is at its most fragile when we're not *sure* which path is the righteous one.  And so the question becomes: How can we create in ourselves a true crisis of faith, that could just as easily go either way?
+
+>If you stay with your cached thoughts, if your brain fills in the obvious answer so fast that you can't see originally, you surely will not be able to conduct a crisis of faith.
+
+**invidious**: (of an action or situation) likely to arouse or incur resentment or anger in others. (of a comparison or distinction) unfairly discriminating; unjust.
+
+**excoriate**: censure or criticize severely.
 
