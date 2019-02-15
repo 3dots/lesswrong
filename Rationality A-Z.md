@@ -1871,3 +1871,30 @@ But by the time you *know* it is an error, it is already defeated.  The dilemma 
 
 **excoriate**: censure or criticize severely.
 
+**tripartite**.
+
+>Better to think of such rules as, "Imagine what a skeptic would say—and then imagine what they would say to your response—and then imagine what else they might say, that would be harder to answer."
+
+>Or, "Try to think the thought that hurts the most."
+
+>"Put forth the same level of desperate effort that it would take for a theist to reject their religion."
+
+>Because, if you *aren't* trying that hard, then—for all *you* know—your head could be stuffed full of nonsense as ridiculous as religion. Without a convulsive, wrenching effort to be rational, the kind of effort it would take to throw off a religion—then how dare you believe anything, when Robert Aumann believes in God?
+
+>We're talking about a desperate effort to *figure out* if you should be throwing off the chains, or keeping them.  Self-honesty is at its most fragile when we don't *know* which path we're supposed to take—that's when rationalizations are not *obviously* sins.
+
+
+Not every doubt calls for staging an all-out Crisis of Faith.  But you should consider it when:
+
+* A belief has long remained in your mind;
+* It is surrounded by a cloud of known arguments and refutations;
+* You have sunk costs in it (time, money, public declarations);
+* The belief has emotional consequences (note this does not make it wrong);
+* It has gotten mixed up in your personality generally.
+
+But what these warning signs *do* mark, is a belief that will take *more than an ordinary effort to doubt effectively*.  So that if it were in fact false, you would in fact reject it.  And where you cannot doubt effectively, you are blind, because your brain will hold the belief unconditionally.  When a retina sends the same signal regardless of the photons entering it, we call that eye blind.
+
+>Rest up the previous day, so you're in good mental condition.  Allocate some uninterrupted hours.  Find somewhere quiet to sit down.  Clear your mind of all standard arguments, try to see from scratch.  And make a desperate effort to put forth a true doubt that would destroy a false, and *only* a false, deeply held belief.
+
+>The Crisis of Faith is only the critical point and sudden clash of the longer *isshoukenmei*—the lifelong uncompromising effort to be so incredibly rational that you rise above the level of stupid damn mistakes.  It's when you get a chance to use your skills that you've been practicing for so long, all-out against yourself.
+
