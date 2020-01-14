@@ -1548,6 +1548,10 @@ Evaluably good products are seen as more generous. I.e. buy a 45$ scarf vs a 55$
 
 >After we've done our best to reduce risk and increase scope, any *remaining* heroism is well and truly revealed.
 
+**asceticism**: severe self-discipline and avoidance of all forms of indulgence, typically for religious reasons
+
+**sublime**: of such excellence, grandeur, or beauty as to inspire great admiration or awe.
+
 ## Mere Messiahs [link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/Tv7WWhgbKMWzEnMmx)
 
 ## Affective Death Spirals[link](https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/XrzQW69HpidzvBxGr)
