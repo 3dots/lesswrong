@@ -1422,7 +1422,7 @@ Book Suggestion: Judgment Under Uncertainty
 
 ## Anchoring and Adjustment [link](https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/bMkCEZoBNhgRBtzoj)
 
-"How much would I be willling to pay for this if I didn't know any special information?" Useful for debiasing.
+"How much would I be willing to pay for this if I didn't know any special information?" Useful for debiasing.
 
 >Watch yourself thinking, and try to notice when you are **adjusting** a figure in search of an estimate.
 
