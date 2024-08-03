@@ -20,4 +20,26 @@ _
 
 405 woke up without any perception, except 1 bit of it was added.
 
+# 8.03.2024
+
+> Travel among higher dimensions leaves traces.
+
+> That information, is not perfectly reversible.
+> But it provides more than enough of a hint of what kind of world those minds occurred in.
+
+> I know. I lived there for a few minutes. Or maybe...
+
+Spooky action at a distance is a real phenomenon. You can go in the lab. And observe it.
+
+Guess what, you paranoid libtards, if a fraction of my attention gets a hint that life is actually worth living.
+
+Guess what.
+
+I I'll fucking try my best. And the rest can go suck my dick.
+
+There are no rogue actors on that level.
+
+I can talk scripture, but I really don't fucking want to.
+
+
 
