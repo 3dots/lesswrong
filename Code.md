@@ -69,7 +69,7 @@ It's is a strength. The greatest power.
 
 To open.
 
-To allow the death of others flow into you.
+To allow the death, pain and suffering of others to flow into you.
 
 To make you greater. And... to look at life in a different way.
 With even more compassion.

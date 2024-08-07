@@ -46,5 +46,7 @@ I can talk scripture, but I really don't fucking want to.
 10:43pm.
 
 The fear spell is finished.
-No longer necessary.
+No longer necessary in it's current iteration.
+
+
 
