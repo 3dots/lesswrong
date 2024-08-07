@@ -42,5 +42,9 @@ There are no rogue actors on that level.
 
 I can talk scripture, but I really don't fucking want to.
 
+# 8.06.2024
+10:43pm.
 
+The fear spell is finished.
+No longer necessary.
 
