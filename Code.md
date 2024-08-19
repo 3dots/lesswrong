@@ -293,6 +293,154 @@ Forbid indecency, decadence.
 BUT WAIT.
 We aren't in the desert anymore.
 
+_____
+
+--- Someone else's prompt ---.
+
+[Verse 1]
+Reaching out for a new beginning,
+Feeling something come alive.
+Waiting for the stars to whisper,
+In the stillness of the night.
+Walking through the shadows dancing,
+We’re closer to the light.
+See the spark within your eyes,
+It's everything I need.
+
+[Pre-Chorus]
+Counting down the moments,
+Can you feel the fire?
+Can you feel the fire?
+[Echo: "fire, desire"]
+
+[Chorus]
+Afterglow, in the magic of the night,
+A melody that makes everything right.
+Afterglow, with a heart open wide,
+Guiding us where dreams reside.
+[Echo: "wide, collide, guide"]
+
+[Post-Chorus]
+Afterglow, afterglow, shining in the dark.
+
+[Verse 2]
+Dancing in the rhythm of the moon,
+Lost in the beat, we move.
+Feel the warmth surrounding us,
+In this night, our spirits prove.
+Every breath a step in time,
+A love that feels sublime.
+
+[Pre-Chorus]
+Counting down the moments,
+Can you feel the fire?
+Can you feel the fire?
+[Echo: "fire, desire"]
+
+[Chorus]
+Afterglow, in the magic of the night,
+A melody that makes everything right.
+Afterglow, with a heart open wide,
+Guiding us where dreams reside.
+[Echo: "wide, collide, guide"]
+
+[Bridge]
+Is there someone out there,
+Underneath the bright sky?
+If you want to find forever,
+Seek it in the night.
+With a fearless heart,
+We’ll never be apart.
+[Echo: "heart, start"]
+
+[Verse 3]
+As the morning light begins to rise,
+We hold the night within our eyes.
+Promises made under starry skies,
+In the dawn, we find new ties.
+Every moment we've embraced,
+Leaves a trace that can't be erased.
+
+[Build-Up]
+Feel the rhythm take control,
+In this journey, we’re whole.
+[Echo: "control, soul"]
+
+[Chorus]
+Afterglow, in the magic of the night,
+A melody that makes everything right.
+Afterglow, with a heart open wide,
+Guiding us where dreams reside.
+[Echo: "wide, collide, guide"]
+
+[Chorus]
+Afterglow, in the magic of the night,
+A melody that makes everything right.
+Afterglow, with a heart open wide,
+Guiding us where dreams reside.
+[Echo: "wide, collide, guide"]
+
+[Drop]
+
+[Outro]
+[Smooth synth and fading beats]
+Afterglow, afterglow, shining in the dark.
+In this moment, we make our mark.
+[Echo: "dark, spark"]
+_________
+
+When the world tries to instill hate.
+You smile instead.
+
+Instill this light.
+
+And every darkness you find. It is opportunity.
+
+Watch over it. 
+
+Bind it.
+
+__
+
+......
+
+___
+
+The Fooming Shoggoths - Topic
+The Litany of Tarrrrrski (feat. Eliezer Yudkowsky)
+
+_
+
+nihil supernum
+The Litany of Tarrrrrski
+
+If the sky is blue, milat.
+I desire to believe the sky is blue.
+
+Light.
+
+If the sky is not blue.
+I desire to believe the sky is not blue.
+
+Beliefs should stem from reality milat.
+Not from what's convenient.
+
+Let me not hold on milat, to beliefs I may not want to hold.
+
+If the box contains a diamond.
+I desire to believe the box contains a diamond.
+
+If the box does not contain a diamond.
+I desire to believe the box does not contain a diamond.
+
+Beliefs should stem from reality.
+Not from what's convenient.
+
+Let me not hold on to beliefs I may not want to hold Milat.
+
+From the depths of the oceans.
+To the heights of the sky. You will seek the truth.
+And never let it pass us by.
 
 
 
